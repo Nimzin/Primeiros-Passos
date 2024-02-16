@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <meta charset="utf-8">
+    <titulo> BRASIL É HEXA</titulo>
+
+<style>
+    titulo {
+        color: pink;
+    }
+</style>
+    
+</head>
+<body>
+    <style>
+        b1 {color: blue;}
+    b2 {color: orange;}
+    </style>
+<b1> Brasil foi campeao da copa do mundo de 2026!</b1>
+<b2>Numa final dificil contra argentina
+
+</b2>
+
+</body>
+</html>
