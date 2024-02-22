@@ -1,0 +1,64 @@
+body{
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.logo {
+    width: 250px;
+    margin-left: 10%;
+}
+
+header{
+    background: lightgrey;
+    padding: 5px 0;
+}
+
+
+
+
+
+.eu{
+    width: 20%;
+    border: 10px solid black;
+    margin-left: 40%;
+
+}
+.sobre{
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+     }
+
+.sobre:hover{
+    color: red;
+    cursor: pointer;
+    font-size: 35px;
+    transition: 3s;
+}
+
+.bemvindo{
+    text-align: center;
+    font-size: 50px;
+    padding: 1.5em;
+}
+
+.bemvindo:hover{
+    color: red;
+    cursor: pointer;
+    font-size: 55px;
+    transition: 3s;
+}
+
+main{
+    background: linear-gradient(lightgrey, grey);
+}
+
+
+
+main p{
+    text-align: center justify;
+    font-size: 20px;
+    padding: 0 40%;
+   
+    }
