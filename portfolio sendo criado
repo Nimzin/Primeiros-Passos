@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+     
+        <meta charset="utf-8">
+        <link rel="icon" href="icone.ico.png">
+        <title>Portifólio Breno de Almeida Chaves</title>
+        <link rel="stylesheet" href="estilo.css">
+        <link rel="stylesheet" href="reset.css">
+        <link class="logo" href="https://fonts.googleapis.com/css2?family=Anta&display=swap" rel="stylesheet">
+        
+    </head>
+    <body> 
+    
+
+        <header>
+            <img class="logo" src="Logo_brn-removebg-preview.png">
+            <p class="sobre">Breno de Almeida Chaves</p>
+            <p class="sobre">Estudante de Análise e Desenvolvimento de Sistemas</p>
+            <p class="bemvindo">BEM VINDO!</p>
+
+
+        </header>
+        <main>
+         
+            <img class="eu" src="eu.jpeg">
+            <p><strong>Sobre mim:</strong></p>
+            <p>Olá! Meu nome é Breno de Almeida Chaves, tenho 27 anos e sou natural de Bom Jesus do Itabapoana, interior do RJ. Comecei neste ano de 2024 a cursar Análise e Desenvolvimento de Sistemas pela Estácio.</p>
+            <p>Tive meu primeiro contato com programação em 2023 e logo me identifiquei. No entanto, em 2023, estava em busca da minha carteira de advogado e não pude dedicar tanto tempo à programação.</p>
+            <p>Após conquistar minha carteira, reservei um tempo livre para me aprofundar mais no assunto, que se tornou cada vez mais interessante. Em seguida, iniciei o curso, estou ansioso para concluí-lo e ainda mais ansioso para começar a colocar em prática tudo o que estou aprendendo.</p>
+         
+        
+        </main>
